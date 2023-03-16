@@ -1,0 +1,83 @@
+/*google fonts
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Roboto', sans-serif;*/
+
+
+/*barra de nav*/
+.navbar{
+    padding: 2rem;
+    background-color: #f5f6f7;
+    
+}
+.navbar-collapse{
+    align-items: center;
+    justify-content: space-between;
+}
+.bi-whatsapp{
+    font-size: 20px;
+    color: green;
+}
+.bi-instagram{                   
+    font-size: 20px;
+    color: purple;
+}
+.navgen{
+    font-family: 'Roboto', sans-serif;
+}
+  /*index*/
+  .sech1__index{
+    position: absolute;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 5rem;
+    font-weight: 700;
+    justify-content: center;
+}
+.sech2__index{
+   text-align: center;
+    margin-top: 5%;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 6rem;
+    font-weight: 700;
+    
+}
+.parrafo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+.imgsec2{
+    font-size: 50px;
+}
+.sech2div{
+    margin-top: 5%;
+    margin-left: 10%;
+    justify-content: center;
+    align-items: center;
+}
+/*nosotros*/
+.p-nos{
+    position: absolute;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 8rem;
+    font-weight: 700; 
+}
+/*computadoras*/
+.main-pc{
+margin-top: 3%;
+}
+/*contacto*/
+.contac{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+/*footer*/
+.a-foot{
+    text-decoration: none;
+}
+
+/*secciones*/
+.seccion-oscura{
+    background-color: #1b1b32;
+    color: white;
+}
